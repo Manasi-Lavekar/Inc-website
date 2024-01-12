@@ -1,4 +1,4 @@
-# InC_23_Website
+# InC_24_Website
 
 #### Before cloning and starting this project, always follow these steps to ensure error-free and in sync collaboration,
 
